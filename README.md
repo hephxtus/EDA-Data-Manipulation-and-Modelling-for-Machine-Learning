@@ -13,18 +13,18 @@ define the machine learning problem and prepare the data for modelling. Output f
 
 ## Part 2: Data Preparation and Machine Learning
 The second goal was to prepare the data for modelling and to build a baseline model. I performed the following steps:
-# strip out the metadata
-# remove missing values
-# normalisation, scaling, and standardisation
-# Duplicate removal
-# Train, test split
-# Dimensionality reduction using PCA and t-SNE
-# Building a baseline model using a random forest classifier
+1. strip out the metadata
+2. remove missing values
+3. normalisation, scaling, and standardisation
+4. Duplicate removal
+5. Train, test split
+6. Dimensionality reduction using PCA and t-SNE
+7. Building a baseline model using a random forest classifier
 
 ## Part 3: Model Evaluation and Improvement
 The third goal was to evaluate the baseline model against other, more advanced models. The models used were
-# Logistic regressor
-# Gaussian Naive Bayes Regressor
+* Logistic regressor
+* Gaussian Naive Bayes Regressor
 
 ## Running the code
 To run the code, simply run the main.py file. The code will run the EDA, data preparation, and modelling for the baseline model and the improved model.
