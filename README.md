@@ -6,10 +6,10 @@ The project was completed in 3 parts.
 ## Part 1: Business and Data Understanding
 The first goal was simply to explore the data using CRISP-DM and EDA. I also performed some preliminary data manipulation to
 define the machine learning problem and prepare the data for modelling. Output from this consists of:
-# summary statistics about the data including number of instances, number of features and how many were categorical and numerical, respectively
-# a pearson correlation matrix for the numerical features with the target variable
-# a histogram showing the distribution of the top 5 most correlated features with the target variable
-# An EDA using clustering to identify how the target variable is distributed across the features
+1. summary statistics about the data including number of instances, number of features and how many were categorical and numerical, respectively
+2. a pearson correlation matrix for the numerical features with the target variable 
+3. a histogram showing the distribution of the top 5 most correlated features with the target variable 
+4. An EDA using clustering to identify how the target variable is distributed across the features
 
 ## Part 2: Data Preparation and Machine Learning
 The second goal was to prepare the data for modelling and to build a baseline model. I performed the following steps:
